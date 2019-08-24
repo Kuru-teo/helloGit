@@ -10,4 +10,4 @@ sourcetree使ってみたよ ローカルリポジトリに
 
 subで作業した
 
-久しぶりのコミットしたい
+now i'm in sub
