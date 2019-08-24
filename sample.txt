@@ -9,3 +9,5 @@ sourcetree使ってみたよ ローカルリポジトリに
 マージしたい！
 
 subで作業した
+
+now i'm in sub
