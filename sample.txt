@@ -11,3 +11,5 @@ sourcetree使ってみたよ ローカルリポジトリに
 subで作業した
 
 now i'm in sub
+
+now i'm in subbranch
