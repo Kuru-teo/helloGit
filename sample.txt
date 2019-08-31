@@ -14,4 +14,4 @@ now i'm in sub
 
 now i'm in subbranch
 
-0831サブモジュール作ってここからpullrequestしたいなぁ
+I want to pullrequest 
